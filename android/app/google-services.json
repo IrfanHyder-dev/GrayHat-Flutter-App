@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "347551953397",
+    "project_id": "challange-app-717dc",
+    "storage_bucket": "challange-app-717dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:347551953397:android:4755f7f625d5db0836b0bc",
+        "android_client_info": {
+          "package_name": "com.example.grayhat_flutter_challange_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "347551953397-16tnf39djoj39vt22tadjb6a6dfoi0qd.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBq78lXYaD9KGyVgmi8yU-F1-mBSmsnx6E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "347551953397-16tnf39djoj39vt22tadjb6a6dfoi0qd.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
