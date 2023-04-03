@@ -4,6 +4,7 @@ A new Flutter project.
 
 ## Getting Started
 
+This project was made by using Flutter version 3.7.5.  Firebase Cloud FireStore database is used in this project.
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
